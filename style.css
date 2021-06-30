@@ -1,0 +1,23 @@
+p{
+    color: green;
+    background: red;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+#box{
+    width:100px;
+    height:40px;
+    background: green;
+    color: white;
+}
+
+.disclaimer{
+    width: 300px;
+    height: 60px;
+    background: black;
+    color: white;
+    margin: 5px;
+    padding: 5 px;
+    border: 2px solid green;
+}
